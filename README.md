@@ -22,12 +22,5 @@
 - [补充你设定的其他规则]
 
 ## 运行方法
-**方式一：直接运行程序（Windows）**
+**方式：直接运行程序（Windows）**
 到右侧 Releases 下载最新版本，双击运行。如被杀毒软件拦截，请使用方式二。
-
-**方式二：运行源码**
-```
-pip install -r requirements.txt
-python main.py
-```
-环境：Python [3.x]；主要依赖：[库名，如 matplotlib]
